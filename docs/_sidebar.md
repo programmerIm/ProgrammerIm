@@ -1,6 +1,7 @@
+<!-- 左侧导航栏 -->
 * [HOME](./)
-* [Classify](./java/index)
-    * [ElasticSearch](./ElasticSearch/index)
-    * [Java](./java/index)
+* [Classify](./)
+    * [ElasticSearch](./ElasticSearch/ElasticSearch)
+    * [Java](./java/javaBase)
 * [About](./about/index)
 * [Contact](./contact/index)

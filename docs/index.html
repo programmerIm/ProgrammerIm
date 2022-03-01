@@ -9,13 +9,22 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
+  <nav >
+    <a href="#/bigData/">大数据</a>
+    <a href="#/java/">java</a>
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
       el: "#app",
-      name: '程序员成长记',
+      name: '程序员学习笔记',
+      /* 渲染封面*/
+      coverpage: true,
       repo: 'https://github.com/programmerIm/ProgrammerIm',
-      loadSidebar: true
+      /*右上角导航栏*/
+      loadNavbar: true,
+      /* 左边标题*/
+      loadSidebar: true,
     }
   </script>
   <!-- Docsify v4 -->
