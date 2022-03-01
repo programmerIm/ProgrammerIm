@@ -1,4 +1,4 @@
-## 程序员成长手册
+# 程序员成长手册
 
 You can use the [editor on GitHub](https://github.com/limingbonc/ProgrammerIm/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
