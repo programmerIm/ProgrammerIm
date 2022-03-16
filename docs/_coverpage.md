@@ -3,7 +3,7 @@
 
 > 东西很多，一点点成长
 * 大数据、java2EE、前端
-* 架构、中间件
+* 架构、中间件、软考
 
 [CSDN](https://blog.csdn.net/l1994m?type=blog)
 [GitHub](https://github.com/programmerIm/ProgrammerIm.git)
