@@ -12,3 +12,4 @@
 
 
 练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)
+手机端: 软考通APP
