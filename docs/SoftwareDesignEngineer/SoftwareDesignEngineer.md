@@ -1,6 +1,7 @@
 <!-- 正文笔记 -->
 # 软件设计师学习笔记
 * [考试大纲](./SoftwareDesignEngineer/syllabus)
+* [教材解析](./SoftwareDesignEngineer/教材对比)
 * [计算机组成与体系结构](./SoftwareDesignEngineer/计算机组成与体系结构)
 * [操作系统](./SoftwareDesignEngineer/操作系统)
 * [数据库系统](./SoftwareDesignEngineer/数据库系统)
