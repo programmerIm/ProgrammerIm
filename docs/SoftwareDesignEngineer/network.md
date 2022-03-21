@@ -103,3 +103,35 @@ B类: 128~191
 ### PKI公钥体系
 CA签发的密钥证书  
 ![PKI公钥体系](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320171920.png)
+
+## 网络安全
+![网络安全](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202236.png)
+TSL 是 SSL 3.0版本
+
+## 网络攻击
+### 被动攻击
+![被动攻击](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202445.png)
+### 主动攻击
+![主动攻击](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202406.png)
+
+### Dos 与 DDos
+服务忙于治理傀儡机而拒绝了正常的请求
+![Dos](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202647.png)
+
+## 防火墙
+（这里截图截取不下）
+![防火墙左](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203152.png)
+![防火墙](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203042.png)
+
+## 安全防护体系
+正常有7层   
+1. 物理环境的安全性  
+2. 操作系统的安全性  
+3. 网络的安全性  
+4. 应用的安全性  
+5. 管理的安全性  
+![安全防护体系](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203516.png)
+
+## 计算机病毒与木马
+![计算机病毒与木马](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203722.png)  
+木马主要是窃取，病毒是直接破坏电脑
