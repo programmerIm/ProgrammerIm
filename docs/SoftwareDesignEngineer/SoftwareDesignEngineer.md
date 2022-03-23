@@ -15,4 +15,4 @@
 练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)  
 手机端: 软考通APP  
 
-注:*笔记中部分截图不全，实在是没办法*
+注:*笔记中部分截图不全，不影响整体学习，见谅*

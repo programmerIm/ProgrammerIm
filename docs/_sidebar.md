@@ -1,8 +1,8 @@
 <!-- 左侧导航栏 -->
-* [HOME](./)
-* [Classify](./)
+* [首页](./)
+* [分类](./)
     * [ElasticSearch](./ElasticSearch/ElasticSearch)
     * [Java](./java/javaBase)
     * [软考](./SoftwareDesignEngineer/SoftwareDesignEngineer)
-* [About](./about/index)
-* [Contact](./contact/index)
+* [面试](./job/JobIndex)
+* [工具](./tool/ToolIndex)
