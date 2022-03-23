@@ -7,6 +7,7 @@
 * [数据库系统](./SoftwareDesignEngineer/数据库系统)
 * [计算机网络与信息安全](./SoftwareDesignEngineer/network)
 * [系统开发基础](./SoftwareDesignEngineer/系统开发基础)
+* [面向对象技术](./SoftwareDesignEngineer/面向对象技术)
 * [软件工程](./SoftwareDesignEngineer/软件工程)
 * [数据结构与算法](./SoftwareDesignEngineer/algorithm)
 * [程序设计语言](./SoftwareDesignEngineer/程序设计语言)
