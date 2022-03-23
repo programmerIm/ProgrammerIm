@@ -11,7 +11,7 @@
 * [数据结构与算法](./SoftwareDesignEngineer/algorithm)
 * [程序设计语言](./SoftwareDesignEngineer/程序设计语言)
 
+练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)  
+手机端: 软考通APP  
 
-
-练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)
-手机端: 软考通APP
+注:*笔记中部分截图不全，实在是没办法*
