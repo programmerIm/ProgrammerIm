@@ -16,3 +16,8 @@
 手机端: 软考通APP  
 
 注:*笔记中部分截图不全，不影响整体学习，见谅*
+
+
+## 备考资料
+* [软件设计师](./SoftwareDesignEngineer/备考资料)  
+* [系统集成项目管理工程师](./SoftwareDesignEngineer/备考资料)
