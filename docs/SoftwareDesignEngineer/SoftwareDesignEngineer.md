@@ -9,7 +9,7 @@
 * [系统开发基础](./SoftwareDesignEngineer/系统开发基础)
 * [面向对象技术](./SoftwareDesignEngineer/面向对象技术)
 * [软件工程](./SoftwareDesignEngineer/软件工程)
-* [数据结构与算法](./SoftwareDesignEngineer/algorithm)
+* [数据结构与算法](./SoftwareDesignEngineer/数据结构与算法)
 * [程序设计语言](./SoftwareDesignEngineer/程序设计语言)
 
 练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)  
