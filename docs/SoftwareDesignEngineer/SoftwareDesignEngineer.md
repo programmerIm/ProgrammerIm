@@ -1,5 +1,7 @@
 <!-- 正文笔记 -->
 # 软件设计师学习笔记
+
+## 上午题
 * [考试大纲](./SoftwareDesignEngineer/syllabus)
 * [教材解析](./SoftwareDesignEngineer/教材对比)
 * [计算机组成与体系结构](./SoftwareDesignEngineer/计算机组成与体系结构)
@@ -11,6 +13,10 @@
 * [软件工程](./SoftwareDesignEngineer/软件工程)
 * [数据结构与算法](./SoftwareDesignEngineer/数据结构与算法)
 * [程序设计语言](./SoftwareDesignEngineer/程序设计语言)
+* [知识产权与标准化](./SoftwareDesignEngineer/知识产权)
+
+## 下午题
+* [数据流图](./SoftwareDesignEngineer/下午题-数据流图)
 
 练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)  
 手机端: 软考通APP  
