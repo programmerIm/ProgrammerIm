@@ -17,6 +17,7 @@
 
 ## 下午题
 * [数据流图](./SoftwareDesignEngineer/下午题-数据流图)
+* [数据库设计](./SoftwareDesignEngineer/下午题-数据库设计)
 
 练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)  
 手机端: 软考通APP  
