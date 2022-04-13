@@ -6,4 +6,5 @@
 * 大数据、软考、面试
 
 [CSDN](https://blog.csdn.net/l1994m?type=blog)
+[笔记](./)
 [GitHub](https://github.com/programmerIm/ProgrammerIm.git)
