@@ -33,7 +33,18 @@ TokingRing: 令牌协议
 > SMTP 简单邮件接收协议  
 > SNMP 是网络管理协议
 > NFS 网络文件系统  
-![TCP/IP协议族](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320161435.png)
+![TCP/IP协议族](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320161435.png)  
+
+补充： 
+POP3协议采用**Client/Server**模式进行通信，当客户机需要服务时，客户端软件与POP3服务器建立**TCP**链接。
+*POP3（Post Office Protocol 3）即邮局协议的第3个版本，
+它是规定个人计算机如何连接到互联网上的邮件服务器接收邮件的协议。
+它是因特网电子邮件的第一个离线协议标准，POP3协议允许用户从服务器上把邮件存储到本地主机（即自己的计算机）上，
+同时根据客户端的操作删除或保存在邮件服务器上的邮件，而POP3服务器则是遵循POP3协议的接收邮件服务器，
+用来接收电子邮件的。POP3协议是TCP/IP协议族中的一员，由RFC 1939 定义。
+本协议主要用于支持使用客户端远程管理在服务器上的电子邮件。
+POP3协议采用的是C/S结构，同时该协议基于传输层TCP协议，所以客户端软件与POP3服务器会建立可靠的连接——TCP连接。*
+
 
 ## IP地址
 IP均为 IPV4协议,32位的     
