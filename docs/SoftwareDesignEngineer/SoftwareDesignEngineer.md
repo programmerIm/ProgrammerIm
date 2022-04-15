@@ -16,9 +16,11 @@
 * [知识产权与标准化](./SoftwareDesignEngineer/知识产权)
 
 ## 下午题
-* [数据流图](./SoftwareDesignEngineer/下午题-数据流图)
-* [数据库设计](./SoftwareDesignEngineer/下午题-数据库设计)
-* [数据库设计](./SoftwareDesignEngineer/下午题-UML建模)
+* [数据流图](./SoftwareDesignEngineer/下午题1-数据流图)
+* [数据库设计](./SoftwareDesignEngineer/下午题2-数据库设计)
+* [数据库设计](./SoftwareDesignEngineer/下午题3-UML建模)
+* [数据结构与算法](./SoftwareDesignEngineer/下午题4-数据结构与算法)
+* [面向对象程序设计](./SoftwareDesignEngineer/下午题5-面向对象程序设计)  
 
 练题网站: [希赛网](https://www.educity.cn/xuanke/rk/prog/?sywzggw#jxst)  
 手机端: 软考通APP  
