@@ -115,26 +115,27 @@ CA签发的密钥证书
 ![PKI公钥体系](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320171920.png)
 
 ## 网络安全
-![网络安全](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202236.png)
+![网络安全](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202236.png)  
 TSL 是 SSL 3.0版本
 
 ## 网络攻击
 ### 被动攻击
-![被动攻击](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202445.png)
+<img alt="被动攻击" height="350" src="https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202445.png" width="400"/>  
+
 ### 主动攻击
-![主动攻击](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202406.png)
+<img alt="主动攻击" height="350" src="https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202406.png" width="400"/>
 
 ### Dos 与 DDos
-服务忙于治理傀儡机而拒绝了正常的请求
+服务忙于治理傀儡机而拒绝了正常的请求  
 ![Dos](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321202647.png)
 
 ## 防火墙
-（这里截图截取不下）
+（这里截图截取不下）  
 ![防火墙左](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203152.png)
-![防火墙](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203042.png)
+![防火墙右](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203042.png)
 
 ## 安全防护体系
-正常有7层   
+正常有7层  
 1. 物理环境的安全性  
 2. 操作系统的安全性  
 3. 网络的安全性  
@@ -144,11 +145,11 @@ TSL 是 SSL 3.0版本
 
 ## 计算机病毒与木马
 ![计算机病毒与木马](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220321203722.png)  
-木马主要是窃取，病毒是直接破坏电脑
+*木马主要是窃取，病毒是直接破坏电脑*
 
 引导区病毒破坏的是引导盘、文件目录等    
 宏病毒破坏的是OFFICE文件相关    
-木马的作用一般强调控制操作。 
+木马的作用一般强调控制操作。   
 蠕虫病毒：  
 震网（Stuxnet），指一种蠕虫病毒。它的复杂程度远超一般电脑黑客的能力。这种震网（Stuxnet）病毒于2010年6月首次被检测出来，是第一个专门定向攻击真实世界中基础（能源）设施的“蠕虫”病毒，比如核电站，水坝，国家电网。
 “冲击波”病毒是一种蠕虫类型的病毒,在进行网络传播时，利用了Windows操作系统的RPC漏洞。
