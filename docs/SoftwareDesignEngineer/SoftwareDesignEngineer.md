@@ -10,7 +10,6 @@
 * [计算机网络与信息安全](./SoftwareDesignEngineer/network)
 * [系统开发基础](./SoftwareDesignEngineer/系统开发基础)
 * [面向对象技术](./SoftwareDesignEngineer/面向对象技术)
-* [软件工程](./SoftwareDesignEngineer/软件工程)
 * [数据结构与算法](./SoftwareDesignEngineer/数据结构与算法)
 * [程序设计语言](./SoftwareDesignEngineer/程序设计语言)
 * [知识产权与标准化](./SoftwareDesignEngineer/知识产权)
