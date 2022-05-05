@@ -105,15 +105,15 @@ B类: 128-191
 ![对称加密技术](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320170529.png)  
 
 ### 非对称加密技术
-公钥私钥成对出现,发送者要用接受的公钥进行加密，接受者用自己的私钥进行解密。
+公钥私钥成对出现,发送者要用接受的公钥进行加密，接受者用自己的私钥进行解密。  
 ![非对称加密技术](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320171031.png)  
 
 ### 数字签名
-证明文件是当前签发，用自己的私钥进行发送。接受者用A的公钥进行验证。  
+证明文件是当前签发，用自己的私钥进行发送。接受者用A的公钥进行验证。   
 ![数字签名](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320171338.png)  
 
 ### 消息摘要
-单向的加密，不能解密。只能用相同的方式进行加密，进行判断结果是否相等。  
+单向的加密，不能解密。只能用相同的方式进行加密，进行判断结果是否相等。   
 ![消息摘要](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320171806.png)
 
 ### PKI公钥体系
