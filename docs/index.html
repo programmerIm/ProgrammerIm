@@ -7,55 +7,16 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <!--箭头样式-->
-  <link rel ="stylesheet" href ="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 </head>
 <body>
-  <nav >
-    <a href="#/bigData/">大数据</a>
-    <a href="#/java/">java</a>
-  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      el: "#app",
-      name: '程序员学习笔记',
-      /* 渲染封面*/
-      coverpage: true,
-      repo: 'https://github.com/programmerIm/ProgrammerIm',
-      /*右上角导航栏*/
-      loadNavbar: true,
-      /* 左边标题*/
-      loadSidebar: true,
-  /*    /!*自动生成左标题*!/
-      subMaxLevel: 2,*/
-      /*自动页眉*/
-      autoHeader: true,
-      /*用于生成右侧目录*/
-      toc: {
-        tocMaxLevel: 5,
-        target: 'h2, h3, h4, h5, h6'
-      },
-      scrollToTop: {
-        auto: true,
-        text: 'Top',
-        right: 15,
-        bottom: 15,
-        offset: 500
-      }
+      name: '',
+      repo: ''
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!--Docsify 插件-->
-  <script src="//unpkg.com/docsify-plugin-toc"></script>
-  <!-- 折叠侧边栏插件 -->
-  <script  src =" //cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js "> </script>
-  <!--回到顶部插件-->
-  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
-  <!--表情-->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-  <!--图片缩放-->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
