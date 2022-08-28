@@ -30,10 +30,11 @@ TokingRing: 令牌协议
 > 左边的部分均为TCP协议,右边协议基于UDP协议。  
 > https: 443端口   
 > POP3 是邮件接收协议  
-> SMTP 简单邮件接收协议  
+> SMTP 简单邮件发送协议  
 > SNMP 是网络管理协议  
 > NFS 网络文件系统  
 > MIME 多用途互联网扩展邮件，是设定某种扩展名的文件用一种应用程序打开的方式类型，当该扩展名文件被访问的时候，浏览器会自动使用指定应用程序来打开。  
+> TFTP(Trivial File Transfer Protocol),简单文件传输协议   
 ![TCP/IP协议族](https://raw.githubusercontent.com/programmerIm/MyPictures/main/images/20220320161435.png)  
 
 补充： 
